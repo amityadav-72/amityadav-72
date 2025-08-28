@@ -136,7 +136,7 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amityadav-72)](https://github.com/amityadav-72?tab=overview&from=2025-01-01&to=2025-12-31)
+[![trophy](https://github-profile-trophy.vercel.app/?amityadav-72=ryo-ma&theme=flat)](https://github.com/amityadav-72?tab=overview&from=2025-01-01&to=2025-12-31)
 
 
 
@@ -149,7 +149,7 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 
 
 
-![snake gif](https://github.com/amityadav-72/amityadav-72/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/amityadav-72/amityadav-72/output/snake.svg)
 
 
 
@@ -178,7 +178,24 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 [![An image of @amityadav72's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amityadav72)](https://holopin.io/@amityadav72)
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=amityadav-72&color=blue&style=flat-square&label=Profile+Views)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00F0FF&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+GitHub+👋;Profile+Views+Counter+👇" />
+</h1>
+
+<p align="center">
+  <a href="https://github.com/amityadav-72">
+    <img src="https://komarev.com/ghpvc/?username=amityadav-72&label=👾+Profile+Glitches&color=ff0050&style=for-the-badge" alt="Visitor Count"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">⚡ Glitch Animation ⚡</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100%" alt="Glitch Effect"/>
+</p>
+
 
 
 
