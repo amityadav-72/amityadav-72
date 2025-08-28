@@ -47,7 +47,7 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 </html>
 
 
-## 🌐 Socials:
+<!-- ## 🌐 Socials:
 <div align="left">
   <a href="https://www.linkedin.com/in/amit-kumar-yadav-68b768254/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
@@ -72,7 +72,18 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
   <a href="https://www.instagram.com/amityaduvanshi_72/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-</div>
+</div> -->
+
+
+### 🌐 Connect with me
+<p align="center">
+<a href="https://linkedin.com/in/amit-kumar-yadav-68b768254"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+<a href="https://twitter.com/Amitkum68386498"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
+<a href="https://www.youtube.com/@amitkumaryadav2565"><img src="https://skillicons.dev/icons?i=youtube" width="40"/></a>
+<a href="https://t.me/AMITYADAV_72"><img src="https://skillicons.dev/icons?i=telegram" width="40"/></a>
+<a href="https://medium.com/@988981amityadav"><img src="https://skillicons.dev/icons?i=medium" width="40"/></a>
+<a href="https://instagram.com/amityaduvanshi_72"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+</p>
 
   
 </div>
@@ -129,6 +140,23 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amityadav-72&repo=Readme&theme=radical)](https://github.com/amityadav-72/Readme)
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amityadav-72&theme=radical&hide_border=true" height="200"/>
+</div>
+
+
+
+![snake gif](https://github.com/amityadav-72/amityadav-72/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
@@ -148,6 +176,10 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 
 # Badges 
 [![An image of @amityadav72's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amityadav72)](https://holopin.io/@amityadav72)
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=amityadav-72&color=blue&style=flat-square&label=Profile+Views)
+
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
