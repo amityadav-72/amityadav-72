@@ -125,7 +125,7 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amityadav-72)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amityadav-72)](https://github.com/amityadav-72?tab=overview&from=2025-01-01&to=2025-12-31)
 
 
 
