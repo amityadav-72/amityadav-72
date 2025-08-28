@@ -178,10 +178,9 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 [![An image of @amityadav72's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amityadav72)](https://holopin.io/@amityadav72)
 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00F0FF&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+GitHub+👋;Profile+Views+Counter+👇" />
-</h1>
 
+
+<!-- Profile Views Counter -->
 <p align="center">
   <a href="https://github.com/amityadav-72">
     <img src="https://komarev.com/ghpvc/?username=amityadav-72&label=👾+Profile+Glitches&color=ff0050&style=for-the-badge" alt="Visitor Count"/>
@@ -190,11 +189,23 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 
 ---
 
-<h2 align="center">⚡ Glitch Animation ⚡</h2>
-
+<!-- Glitch Typing Effect -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100%" alt="Glitch Effect"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=35&duration=3000&pause=1000&color=FF0050&center=true&vCenter=true&width=900&height=80&lines=⚡+Amit+Kumar+Yadav+⚡;👾+Microsoft+Student+Ambassador+👾;🚀+Tech+Enthusiast+%7C+Community+Builder+%7C+AI+Explorer+🚀" alt="Glitch Animation" />
 </p>
+
+---
+
+<!-- Neon Title -->
+<h2 align="center" style="color:#ff0050; text-shadow: 2px 2px #00f0ff;">
+  ⚡ Glitch Mode Activated ⚡
+</h2>
+
+<!-- Optional Background Glitch GIF (optimized) -->
+<p align="center">
+  <img src="https://i.ibb.co/6HfHwZr/glitch-small.gif" width="80%" alt="Glitch Background"/>
+</p>
+
 
 
 
