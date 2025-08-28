@@ -180,7 +180,7 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 <!-- Profile Views Counter -->
 <p align="center">
   <a href="https://github.com/amityadav-72">
-    <img src="https://komarev.com/ghpvc/?username=amityadav-72&label=👾+Profile+Glitches&color=ff0050&style=for-the-badge" alt="Visitor Count"/>
+    <img src="https://komarev.com/ghpvc/?username=amityadav-72&label=👾+Profile+Visitor+Count&color=ff0050&style=for-the-badge" alt="Visitor Count"/>
   </a>
 </p>
 
@@ -195,7 +195,7 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 
 <!-- Neon/Glitch Banner -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=⚡%20Glitch%20Mode%20⚡&width=800&height=150" alt="Glitch Mode" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=40&duration=3000&pause=1000&color=FF0050&center=true&vCenter=true&width=800&height=80&lines=⚡+Glitch+Mode+⚡" alt="Glitch Title" />
 </p>
 
 ---
