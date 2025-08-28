@@ -188,15 +188,16 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 
 <!-- Glitch Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=35&duration=3000&pause=1000&color=FF0050&center=true&vCenter=true&width=900&height=80&lines=⚡+Amit+Kumar+Yadav+⚡;👾+Microsoft+Student+Ambassador+👾;🚀+Tech+Enthusiast+%7C+Community+Builder+%7C+AI+Explorer+🚀" alt="Glitch Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=35&duration=3000&pause=1000&color=FF0050&center=true&vCenter=true&width=1100&height=80&lines=⚡+Amit+Kumar+Yadav+⚡;👾+Microsoft+Student+Ambassador+👾;🚀+Tech+Enthusiast+%7C+Community+Builder+%7C+AI+Explorer+🚀" alt="Glitch Animation" />
 </p>
 
 ---
 
 <!-- Neon/Glitch Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=40&duration=3000&pause=1000&color=FF0050&center=true&vCenter=true&width=800&height=80&lines=⚡+Glitch+Mode+⚡" alt="Glitch Title" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Glitch%20Mode%20Activated&width=750&height=150" alt="Glitch Mode" />
 </p>
+
 
 ---
 
