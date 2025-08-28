@@ -47,35 +47,35 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 </html>
 
 
-<!-- ## 🌐 Socials:
+## 🌐 Socials:
 <div align="left">
   <a href="https://www.linkedin.com/in/amit-kumar-yadav-68b768254/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" />
   </a>
   
   <a href="https://twitter.com/Amitkum68386498" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="twitter logo" />
   </a>
   
   <a href="https://www.youtube.com/@amitkumaryadav2565/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" alt="youtube logo" />
   </a>
   
   <a href="https://t.me/AMITYADAV_72" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="40" alt="telegram logo" />
   </a>
 
   <a href="https://medium.com/@988981amityadav" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="40" height="40" alt="medium logo" />
   </a>
 
   <a href="https://www.instagram.com/amityaduvanshi_72/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo" />
   </a>
-</div> -->
+</div>
 
 
-### 🌐 Connect with me
+<!-- ### 🌐 Connect with me
 <p align="center">
 <a href="https://linkedin.com/in/amit-kumar-yadav-68b768254"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
 <a href="https://twitter.com/Amitkum68386498"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
@@ -83,7 +83,7 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 <a href="https://t.me/AMITYADAV_72"><img src="https://skillicons.dev/icons?i=telegram" width="40"/></a>
 <a href="https://medium.com/@988981amityadav"><img src="https://skillicons.dev/icons?i=medium" width="40"/></a>
 <a href="https://instagram.com/amityaduvanshi_72"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
-</p>
+</p> -->
 
   
 </div>
@@ -131,7 +131,7 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
   <img src="https://github-readme-stats.vercel.app/api?username=amityadav-72&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="220" alt="stats graph" style="border: 2px solid #4CAF50;" />
   
   <!-- Top Languages Card with White Theme and Custom Border -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amityadav72&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="220" alt="languages graph" style="border: 2px solid #4CAF50;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amityadav-72&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="220" alt="languages graph" style="border: 2px solid #4CAF50;" />
 </div>
 
 ###
