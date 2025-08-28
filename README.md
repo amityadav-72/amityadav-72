@@ -140,7 +140,6 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amityadav-72&repo=Readme&theme=radical)](https://github.com/amityadav-72/Readme)
 
 
 <div align="center">
@@ -148,8 +147,6 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 </div>
 
 
-
-![snake gif](https://raw.githubusercontent.com/amityadav-72/amityadav-72/output/snake.svg)
 
 
 
@@ -196,14 +193,16 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 
 ---
 
-<!-- Neon Title -->
-<h2 align="center" style="color:#ff0050; text-shadow: 2px 2px #00f0ff;">
-  ⚡ Glitch Mode Activated ⚡
-</h2>
-
-<!-- Optional Background Glitch GIF (optimized) -->
+<!-- Neon/Glitch Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/6HfHwZr/glitch-small.gif" width="80%" alt="Glitch Background"/>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=⚡%20Glitch%20Mode%20Activated%20⚡&width=800&height=150" alt="Glitch Mode" />
+</p>
+
+---
+
+<!-- Optional Background Glitch GIF -->
+<p align="center">
+  <img src="https://i.ibb.co/6HfHwZr/glitch-small.gif" width="70%" alt="Glitch Background"/>
 </p>
 
 
