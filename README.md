@@ -195,7 +195,7 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 
 <!-- Neon/Glitch Banner -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Glitch%20Mode&width=750&height=150" alt="Glitch Mode" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Amit%20Yadav&width=750&height=150" alt="Amit Yadav" />
 </p>
 
 
