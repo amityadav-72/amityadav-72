@@ -135,7 +135,6 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
   <!-- Top Languages Card with White Theme and Custom Border -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amityadav-72&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="220" alt="languages graph" style="border: 2px solid #4CAF50;" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=amityadav-72&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" />
 </div>
 
 ###
