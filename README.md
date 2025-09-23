@@ -139,15 +139,24 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amityadav-72&theme=flat)](https://github-profile-trophy.vercel.app/?username=amityadav-72&theme=flat)
-
+<div align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=amityadav-72&theme=dracula">
+    <img src="https://github-profile-trophy.vercel.app/?username=amityadav-72&theme=dracula" alt="GitHub Trophy" />
+  </a>
+</div>
 
 
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amityadav-72&theme=radical&hide_border=true" height="200"/>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=amityadav-72&theme=dark&border_radius=6)](https://git.io/streak-stats)
+  
 </div>
+
+
+
+
 
 
 
