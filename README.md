@@ -34,8 +34,8 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 
 
 
-- 💻 My technical skills include proficiency in programming languages like C, C++, Java, and Python.
-- 🛠️ I have experience in Power BI, SQL, and Google Cloud Platform (GCP).
+- 💻 My technical skills include proficiency in programming languages like C, Java, and Python.
+- 🛠️ I have experience in Power BI, SQL, Azure and Google Cloud Platform (GCP).
 - 🌐 I have experience with version control using Git and GitHub.
 - 📊 I'm currently learning data science with Python.
 - 📚 My hobby is learning new things and staying curious.
@@ -158,7 +158,7 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/amityadav72">
+<a href="https://github.com/amityadav-72">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amityadav-72&theme=flag_india" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amityadav-72&theme=flag_india" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amityadav-72&theme=flag_india" height="180em" />
