@@ -124,6 +124,54 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 
+
+
+
+<br>
+<br>
+<br>
+
+
+# 🧩 Project Portfolio
+
+A collection of my work across **AI, Full-Stack Development, and Machine Learning**, showcasing real-world problem solving and intelligent systems.
+
+---
+
+## 🔧 Active Projects
+
+| Project | Description & Technologies | Link | Tags |
+|--------|-----------------------------|------|------|
+|  BloodBuddy (Final Year Project) | AI-powered smart blood donor ecosystem with real-time location, donor prediction & analytics. **Tech:** FastAPI, React, MongoDB, ML | [💻 Repo](https://github.com/amityadav-72/Blood-Buddy) · [🌐 Live](https://www.bloodbuddy.xyz/) | `AI` `FullStack` `Healthcare` |
+|  Ground Water Predictor | Predicts groundwater levels using ML models with interactive dashboard. **Tech:** Python, Scikit-learn, Streamlit, Flask | [💻 Repo](https://github.com/amityadav72) | `MachineLearning` `DataScience` |
+
+---
+
+## ✅ Completed Projects
+
+### 🤖 AI / LLM Projects
+
+| Project | Description & Technologies | Link | Tags |
+|--------|-----------------------------|------|------|
+| LangChain Text Summarizer | LLM-based text summarization tool using prompt pipelines. **Tech:** LangChain, Python, Streamlit | [💻 Repo](https://github.com/amityadav-72/LangChain-Text-Summarizer) | `LLM` `LangChain` `NLP` |
+|  Email Responder AI Agent | Smart email reply generator with automated context understanding. **Tech:** n8n, OpenAI, Gmail API | [💻 Repo](https://github.com/amityadav-72/Email-Responder-AI-Agent) | `AI` `NLP` `Automation` |
+|  Inventory Management AI Agent | ML-powered system for stock prediction & inventory optimization. **Tech:** n8n, Google Sheets,OpenAI  | [💻 Repo](https://github.com/amityadav-72/Inventory-Management-AI-Agent) | `MachineLearning` `AI` |
+
+---
+
+### 🌐 Development Projects
+
+| Project | Description & Technologies | Link | Tags |
+|--------|-----------------------------|------|------|
+| 🌾 Crop Advisory System | Smart agriculture web app that provides crop recommendations based on soil & environmental conditions. **Tech:** Python, ML, Flask, HTML, CSS | [💻 Repo](https://github.com/amityadav-72/Crop-Advisory-System) | `FullStack` `AgriTech` `ML` |
+
+
+
+<br>
+<br>
+<br>
+
+
 # 📊 GitHub Stats:
 
 
