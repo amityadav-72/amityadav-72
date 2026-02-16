@@ -21,7 +21,6 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 
 
 ![Learning Data Science](https://img.shields.io/badge/Learning-Data%20Science-%23108CFF.svg?style=plastic&logo=data)
-![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-%2346BC25.svg?style=plastic&logo=github)
 ![Tech Enthusiast](https://img.shields.io/badge/Tech-Enthusiast-%23FFD700.svg?style=plastic&logo=tech)
 ![Coding Challenges](https://img.shields.io/badge/Coding-Challenges-%23FF6347.svg?style=plastic&logo=codeforces)
 ![Innovation Seeker](https://img.shields.io/badge/Innovation-Seeker-%238A2BE2.svg?style=plastic&logo=innovation)
@@ -47,82 +46,99 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 </body>
 </html>
 
+<h2 align="center">🌐 Let's Connect</h2>
 
-## 🌐 Socials:
-<div align="left">
-  <a href="https://www.linkedin.com/in/amit-kumar-yadav-68b768254/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" />
-  </a>
-  
-  <a href="https://twitter.com/Amitkum68386498" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="twitter logo" />
-  </a>
-  
-  <a href="https://www.youtube.com/@amitkumaryadav2565/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" alt="youtube logo" />
-  </a>
-  
-  <a href="https://t.me/AMITYADAV_72" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="40" alt="telegram logo" />
-  </a>
-
-  <a href="https://medium.com/@988981amityadav" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="40" height="40" alt="medium logo" />
-  </a>
-
-  <a href="https://www.instagram.com/amityaduvanshi_72/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo" />
-  </a>
-</div>
-
-
-<!-- ### 🌐 Connect with me
 <p align="center">
-<a href="https://linkedin.com/in/amit-kumar-yadav-68b768254"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-<a href="https://twitter.com/Amitkum68386498"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
-<a href="https://www.youtube.com/@amitkumaryadav2565"><img src="https://skillicons.dev/icons?i=youtube" width="40"/></a>
-<a href="https://t.me/AMITYADAV_72"><img src="https://skillicons.dev/icons?i=telegram" width="40"/></a>
-<a href="https://medium.com/@988981amityadav"><img src="https://skillicons.dev/icons?i=medium" width="40"/></a>
-<a href="https://instagram.com/amityaduvanshi_72"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
-</p> -->
 
-  
-</div>
-
-
-
-<div align="left">
-  <!-- GitHub Followers -->
-  <a href="https://github.com/amityadav-72?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/amityadav-72?style=social" alt="GitHub followers" />
-  </a>
-  
-  <!-- LinkedIn Followers -->
-  <a href="https://www.linkedin.com/in/amityadav72/" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin_Followers-3000+-blue" alt="LinkedIn followers" />
-  </a>
-
-  <!-- WhatsApp Community -->
-  <a href="https://chat.whatsapp.com/EJ8CbleERgIHudpvWm3dl7" target="_blank">
-    <img src="https://img.shields.io/badge/Community_Members-1200+-green" alt="WhatsApp Community" />
+<a href="https://www.linkedin.com/in/amityadav72/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Amit%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<a href="https://twitter.com/Amitkum68386498" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-@Amitkum68386498-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@amitkumaryadav2565/" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://t.me/AMITYADAV_72" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-Join%20Community-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@988981amityadav" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-Blogs-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/amityaduvanshi_72/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@amityaduvanshi__72-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+
+
+---
+
+<!-- ⚡ PERSONAL BRANDING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Full+Stack+Developer+%7C+MLSA;Community+Builder+%7C+Open+Source+Contributor;Let's+Build+Something+Amazing+Together+🚀"/>
+</p>
+
+
+# 💻 Tech Stack
+
+<table width="100%">
+
+<tr>
+<td width="25%"><strong>👨‍💻 Languages</strong></td>
+<td width="75%">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</td>
+</tr>
+
+<tr>
+<td><strong>☁️ Cloud</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws,azure" />
+</td>
+</tr>
+
+<tr>
+<td><strong>🧠 AI / Automation</strong></td>
+<td>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/n8n.svg" height="48"/>
+</td>
+</tr>
+
+<tr>
+<td><strong>🗄️ Database & Analytics</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+</td>
+</tr>
+
+<tr>
+<td><strong>🧪 API & Dev Tools</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/swagger.svg" height="48"/>
+</td>
+</tr>
+
+<tr>
+<td><strong>🚀 Deployment</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
+</td>
+</tr>
+
+</table>
 
 
 
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power_BI-%2300A1E4.svg?style=plastic&logo=powerbi&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-%234e5b6e.svg?style=plastic&logo=postgresql&logoColor=white) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 
 
 
@@ -142,8 +158,8 @@ A collection of my work across **AI, Full-Stack Development, and Machine Learnin
 
 | Project | Description & Technologies | Link | Tags |
 |--------|-----------------------------|------|------|
-|  BloodBuddy (Final Year Project) | AI-powered smart blood donor ecosystem with real-time location, donor prediction & analytics. **Tech:** FastAPI, React, MongoDB, ML | [💻 Repo](https://github.com/amityadav-72/Blood-Buddy) · [🌐 Live](https://www.bloodbuddy.xyz/) | `AI` `FullStack` `Healthcare` |
-|  Ground Water Predictor | Predicts groundwater levels using ML models with interactive dashboard. **Tech:** Python, Scikit-learn, Streamlit, Flask | [💻 Repo](https://github.com/amityadav72) | `MachineLearning` `DataScience` |
+|  BloodBuddy (Final Year Project) | AI-powered smart blood donor ecosystem with real-time location, donor prediction & analytics. **Tech:** FastAPI, React, MongoDB, ML | [ Repo](https://github.com/amityadav-72/Blood-Buddy) [ Live](https://www.bloodbuddy.xyz/) | `AI` `FullStack` `Healthcare` |
+|  Ground Water Predictor | Predicts groundwater levels using ML models with interactive dashboard. **Tech:** Python, Scikit-learn, Streamlit, Flask | [ Repo](https://github.com/amityadav72) | `MachineLearning` `DataScience` |
 
 ---
 
@@ -153,9 +169,9 @@ A collection of my work across **AI, Full-Stack Development, and Machine Learnin
 
 | Project | Description & Technologies | Link | Tags |
 |--------|-----------------------------|------|------|
-| LangChain Text Summarizer | LLM-based text summarization tool using prompt pipelines. **Tech:** LangChain, Python, Streamlit | [💻 Repo](https://github.com/amityadav-72/LangChain-Text-Summarizer) | `LLM` `LangChain` `NLP` |
-|  Email Responder AI Agent | Smart email reply generator with automated context understanding. **Tech:** n8n, OpenAI, Gmail API | [💻 Repo](https://github.com/amityadav-72/Email-Responder-AI-Agent) | `AI` `NLP` `Automation` |
-|  Inventory Management AI Agent | ML-powered system for stock prediction & inventory optimization. **Tech:** n8n, Google Sheets,OpenAI  | [💻 Repo](https://github.com/amityadav-72/Inventory-Management-AI-Agent) | `MachineLearning` `AI` |
+| LangChain Text Summarizer | LLM-based text summarization tool using prompt pipelines. **Tech:** LangChain, Python, Streamlit | [ Repo](https://github.com/amityadav-72/LangChain-Text-Summarizer) | `LLM` `LangChain` `NLP` |
+|  Email Responder AI Agent | Smart email reply generator with automated context understanding. **Tech:** n8n, OpenAI, Gmail API | [ Repo](https://github.com/amityadav-72/Email-Responder-AI-Agent) | `AI` `NLP` `Automation` |
+|  Inventory Management AI Agent | ML-powered system for stock prediction & inventory optimization. **Tech:** n8n, Google Sheets,OpenAI  | [Repo](https://github.com/amityadav-72/Inventory-Management-AI-Agent) | `MachineLearning` `AI` |
 
 ---
 
