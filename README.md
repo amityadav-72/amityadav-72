@@ -190,16 +190,29 @@ A collection of my work across **AI, Full-Stack Development, and Machine Learnin
 <p align="center">
 
 <a href="https://www.credly.com/badges/bebd382a-470e-4db1-b930-16b5e57fd2f0">
-  <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="240px" alt="GitHub Foundations"/>
+  <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="180px" alt="GitHub Foundations"/>
 </a>
 
 <a href="https://learn.microsoft.com/en-us/users/amityadav-2881/credentials/d472fd8f4e8c1f15">
-  <img src="https://github.com/amityadav-72/Amityaduvanshii/blob/main/certificates/azure-ai-fundamentals-600x60015122646114520842826.webp" width="240px" alt="Microsoft Azure AI Fundamentals"/>
+  <img src="https://github.com/amityadav-72/Amityaduvanshii/blob/main/certificates/azure-ai-fundamentals-600x60015122646114520842826.webp" width="180px" alt="Microsoft Azure AI Fundamentals"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/users/amitkumaryadav-4609/credentials/432bc4ce1a1a9ee7">
+  <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="180px" alt="Microsoft Azure Fundamentals"/>
 </a>
 
 <a href="https://learn.microsoft.com/en-us/users/yadav-9043/credentials/24434215cdad70bc">
-  <img src="https://github.com/amityadav-72/Amityaduvanshii/blob/main/certificates/azure-data-fundamentals-600x600.png" width="240px" alt="Microsoft Azure AI Fundamentals"/>
+  <img src="https://github.com/amityadav-72/Amityaduvanshii/blob/main/certificates/azure-data-fundamentals-600x600.png" width="180px" alt="Microsoft Azure Data Fundamentals"/>
 </a>
+
+<a href="https://learn.microsoft.com/en-gb/users/amityadav-8804/credentials/4efbc0682069100b">
+  <img src="https://github.com/amityadav-72/Amityaduvanshii/blob/main/certificates/twitter_thumb_201604_azure-data-scientist-associate-600x600.png" width="180px" alt="Azure Data Scientist Associate"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/users/amit-4606/credentials/6635ede0fe492439">
+  <img src="https://github.com/amityadav-72/Amityaduvanshii/blob/main/certificates/0_7R_2ESdGD7chgOJT.png" width="180px" alt="Microsoft Azure AI Fundamentals"/>
+</a>
+
 
 </p>
 
