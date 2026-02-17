@@ -183,6 +183,28 @@ A collection of my work across **AI, Full-Stack Development, and Machine Learnin
 
 
 
+
+
+## 🏅 Certifications & Badges
+
+<p align="center">
+
+<a href="https://www.credly.com/badges/bebd382a-470e-4db1-b930-16b5e57fd2f0">
+  <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="240px" alt="GitHub Foundations"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/users/amityadav-2881/credentials/d472fd8f4e8c1f15">
+  <img src="https://github.com/amityadav-72/Amityaduvanshii/blob/main/certificates/azure-ai-fundamentals-600x60015122646114520842826.webp" width="240px" alt="Microsoft Azure AI Fundamentals"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/users/yadav-9043/credentials/24434215cdad70bc">
+  <img src="https://github.com/amityadav-72/Amityaduvanshii/blob/main/certificates/azure-data-fundamentals-600x600.png" width="240px" alt="Microsoft Azure AI Fundamentals"/>
+</a>
+
+</p>
+
+
+
 <br>
 <br>
 <br>
