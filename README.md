@@ -36,7 +36,7 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 - 💻 My technical skills include proficiency in programming languages like C, Java, and Python.
 - 🛠️ I have experience in Power BI, SQL, Azure and Google Cloud Platform (GCP).
 - 🌐 I have experience with version control using Git and GitHub.
-- 📊 I'm currently learning data science with Python.
+- 📊 I'm currently learning AI .
 - 📚 My hobby is learning new things and staying curious.
 - 🚀 Ongoing Development: Continuously improving my programming and development skills.
 
