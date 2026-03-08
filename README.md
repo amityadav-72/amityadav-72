@@ -229,24 +229,6 @@ A collection of my work across **AI, Full-Stack Development, and Machine Learnin
 # 📊 GitHub Stats:
 
 
-<div align="center">
-  <!-- GitHub Stats Card with White Theme and Custom Border -->
-  <img src="https://github-readme-stats.vercel.app/api?username=amityadav-72&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="220" alt="stats graph" style="border: 2px solid #4CAF50;" 
-     <img src="https://github-readme-stats.vercel.app/api?username=amityadav-72&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" />
-  
-  <!-- Top Languages Card with White Theme and Custom Border -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amityadav-72&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="220" alt="languages graph" style="border: 2px solid #4CAF50;" />
-
-</div>
-
-###
-
-<div align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=amityadav-72&theme=dracula">
-    <img src="https://github-profile-trophy.vercel.app/?username=amityadav-72&theme=dracula" alt="GitHub Trophy" />
-  </a>
-</div>
-
 
 
 
@@ -255,11 +237,6 @@ A collection of my work across **AI, Full-Stack Development, and Machine Learnin
   [![GitHub Streak](https://streak-stats.demolab.com?user=amityadav-72&theme=dark&border_radius=6)](https://git.io/streak-stats)
   
 </div>
-
-
-
-
-
 
 
 
