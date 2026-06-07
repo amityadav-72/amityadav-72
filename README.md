@@ -20,15 +20,14 @@
 
 
 
-I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm passionate about tech and always eager to learn new things. Here's a bit about me:
+I'm a student completed a B.E. in Computer Science and Engineering (CSE). I'm passionate about tech and always eager to learn new things. Here's a bit about me:
 
 
 ![Learning Data Science](https://img.shields.io/badge/Learning-Data%20Science-%23108CFF.svg?style=plastic&logo=data)
 ![Tech Enthusiast](https://img.shields.io/badge/Tech-Enthusiast-%23FFD700.svg?style=plastic&logo=tech)
 ![Coding Challenges](https://img.shields.io/badge/Coding-Challenges-%23FF6347.svg?style=plastic&logo=codeforces)
-![Innovation Seeker](https://img.shields.io/badge/Innovation-Seeker-%238A2BE2.svg?style=plastic&logo=innovation)
 ![Continuous Learner](https://img.shields.io/badge/Continuous-Learner-%232E8B57.svg?style=plastic&logo=learn)
-![Gold MLSA](https://img.shields.io/badge/Gold_MLSA-Microsoft-blue)
+![Ex-Gold MLSA](https://img.shields.io/badge/Gold_MLSA-Microsoft-blue)
 
 
 
@@ -36,7 +35,7 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 
 
 
-- 💻 My technical skills include proficiency in programming languages like C, Java, and Python.
+- 💻 My technical skills include proficiency in programming languages Java, and Python.
 - 🛠️ I have experience in Power BI, SQL, Azure and Google Cloud Platform (GCP).
 - 🌐 I have experience with version control using Git and GitHub.
 - 📊 I'm currently learning AI .
@@ -99,7 +98,7 @@ I'm a student pursuing a B.E. in Computer Science and Engineering (CSE). I'm pas
 <tr>
 <td width="25%"><strong>👨‍💻 Languages</strong></td>
 <td width="75%">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+<img src="https://skillicons.dev/icons?i=java,python" />
 </td>
 </tr>
 
